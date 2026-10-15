@@ -6,6 +6,7 @@
 
 <br><p align="center"> ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcelbite%2Fcelbite&label=THE%20GANG&labelColor=%2337d67a&countColor=%23000000&style=plastic&labelStyle=upper)
 <br><p align="center"> current READ.ME is being revamped to be suited with text and other accessories soon. please stand by ^_^
+<br><p align="center"> @hatzgng is also us.
 
 
 <br><p align="center"> <img width="1500" height="354" alt="image" src="https://github.com/user-attachments/assets/5f83897a-24b4-482e-a1c1-03ab172b45b2" />
